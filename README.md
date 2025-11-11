@@ -24,18 +24,6 @@ Short description: E-commerce PWA • Live: https://project-b.example
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-
-<details>
-  <summary>More — CV, talks, blog</summary>
-  - CV: https://your-cv.example  
-  - Blog: https://your-blog.example
-</details>
+- Email: thanhan.lan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/le-thanh-an-2859ba1b1/
