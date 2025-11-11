@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech stack
 Angular (8-20) • TypeScript • JavaScript • RxJS • React • Next • Vue • Nuxt 4 • Tailwind • MongoDB • Docker • GitHub Actions
-NodeJS • NestJS • ExpressJS
+
 ---
 
 ## ⭐ Featured projects
